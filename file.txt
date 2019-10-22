@@ -47,3 +47,5 @@ pa jairjak jw jema dr pxv ral elk uxlxvp xj rswrascf ev xv jpasa
 rswrwvak, hpxqp lw kwdyj pa hwdck pena kwla, elk ieka e vdqqavvudc rxaqa
 wu hwsm wu xj jww, pek lwj osaejas elk iwsa eyvwsyxlo jpwdopjv rsanaljak
 pxi.
+
+flag: picoCTF{substitution_ciphers_are_solvable_redpfyedcr}
